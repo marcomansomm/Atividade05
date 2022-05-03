@@ -18,17 +18,20 @@ $ cd Atividade05
 ## Compile
 
 ```
-$ make
+$ make 
+(Compila o código e cria um código binário)
 ```
 
 ## Run
 
 ```
 $ make run
+(Executa o código Binário)
 ```
 
 ## Clean
 
 ```
 $ make clean
+(Exclui o código Binário)
 ```
