@@ -15,7 +15,6 @@ void *somarLinhas (void *arg);
 int main(void){
 	int linha = 0, coluna = 0, k = 0;
 	
-  	printf("Digite aqui o tamanho da sua matriz> ");
 	scanf("%d ", &tam);
 	
 	termino = tam;
