@@ -44,7 +44,7 @@ int main(void){
 		pthread_join(threads[i], NULL);
 	}
 
-	printf("%d", somaTotal);
+	printf("%d\n", somaTotal);
 	return 0;
 }
 
